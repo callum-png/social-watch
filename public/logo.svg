@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 48" width="360" height="48">
+  <rect width="48" height="48" rx="10" fill="#e7e9ea"/>
+  <polygon points="19,12 19,36 37,24" fill="#000000"/>
+  <text x="58" y="35" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="700" fill="#e7e9ea" letter-spacing="1.5">SHOWNMEDIA</text>
+</svg>
